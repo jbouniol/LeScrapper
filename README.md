@@ -14,15 +14,13 @@ Le Journal est un chatbot intelligent conçu pour répondre aux questions des ut
 
 - `backend/` : Contient le code du backend du chatbot
 - `frontend/` : Contient le code de l'interface utilisateur
-- `data/` : Scripts pour la collecte et le prétraitement des données
-- `models/` : Scripts pour le fine-tuning et l'utilisation du modèle Mistral
-- `tests/` : Scripts pour les tests et la validation du chatbot
+- `data/` : Scripts pour la collecte de données
+- `models/` : Models fine-tuning
 
 ## Prérequis
 
 - Python 3.8+
-- Node.js 14+
-- Un compte AWS ou Heroku pour le déploiement
+- packages du requirements.txt
 
 ## Installation
 
