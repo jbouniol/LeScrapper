@@ -23,7 +23,7 @@ Le Scrapper is a state-of-the-art AI model designed to perfectly read websites a
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/Le-Scrapper.git
+    git clone [https://github.com/yourusername/Le-Scrapper.git](https://github.com/jbouniol/LeScrapper.git)
     cd Le-Scrapper
     ```
 
@@ -36,22 +36,3 @@ Le Scrapper is a state-of-the-art AI model designed to perfectly read websites a
     ```sh
     export MISTRAL_API_KEY='your_api_key_here'
     ```
-
-### Usage
-
-To generate scraping code for a specific website, follow these steps:
-
-1. Run the script and provide the website URL:
-    ```sh
-    python le_scrapper.py --url https://example.com
-    ```
-
-2. The generated scraping code will be saved in the `output` directory with a timestamp.
-
-### Example
-
-```sh
-python le_scrapper.py --url https://example.com
-
-# Output
-# Scraping code generated and saved to output/scraper_20230607.py
