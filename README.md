@@ -2,7 +2,7 @@
 
 ## Overview
 
-Le Scrapper is a state-of-the-art AI model designed to perfectly read websites and generate scraping code for users. Developed during the Mistral AI Fine Tuning Hackathon, this project leverages the Mistral API to fine-tune their model, aiming to deliver highly efficient and accurate code generation for web scraping tasks.
+Le Scrapper is a state-of-the-art AI model designed to perfectly help generate scraping code for users. Developed during the Mistral AI Fine Tuning Hackathon, this project leverages the Mistral API to fine-tune their model, aiming to deliver highly efficient and accurate code generation for web scraping tasks.
 
 ## Features
 
